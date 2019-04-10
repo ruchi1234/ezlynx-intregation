@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<soap:Envelope  xmlns:soap="http://www.w3.org/2003/05/soap-envelope"  xmlns:tem="http://tempuri.org/"  xmlns:v100="http://www.ezlynx.com/XMLSchema/EZLynxUpload/V100"> 
-  <soap:Header> 
-    <tem:AuthenticationHeaderAcct>    
-      <tem:Username>xi_uploadUAT</tem:Username>  
-      <tem:Password>Cojoanin93</tem:Password>    
-      <tem:AccountUsername>xi_userUAT</tem:AccountUsername> 
-    </tem:AuthenticationHeaderAcct>
-  </soap:Header>
