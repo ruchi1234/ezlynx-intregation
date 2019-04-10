@@ -1,5 +1,0 @@
-<soap:Body>      
-    <tem:UploadFile>        
-      <v100:EZLynxUploadRequest> 
-        <v100:UploadRequest RefID="test123" XrefKey="DHO6" DataUploadFlags="4">
-          <v100:FileData Name="EZHome" MimeType="text/xml">
